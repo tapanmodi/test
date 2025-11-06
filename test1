@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Khali Page</title>
+  <style>
+    html,body {
+      height:100%;
+      margin:0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#ffffff;
+      color:#222;
+      font-family:Arial, sans-serif;
+      font-size:32px;
+    }
+  </style>
+</head>
+<body>
+  <div>📝 Khali Page</div>
+</body>
+</html>
